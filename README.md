@@ -154,9 +154,6 @@ chmod 600 id_rsa
 ssh -i id_rsa root@ip_address
 ```
 
-## 📌 Contribution
-Feel free to contribute to this repository by adding new techniques, scripts, and practical examples.
-
 ## 📜 Disclaimer
 This repository is intended for **educational purposes only**. Do not use these techniques on unauthorized systems.
 
